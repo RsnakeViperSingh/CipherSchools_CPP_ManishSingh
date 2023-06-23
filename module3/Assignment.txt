@@ -1,1 +1,5 @@
+in video lecture there is only demonstration of git , git clone , github ,  gcc compiler .
+
+There is no code demonstration for any function realated or any program so i submiting this raw file .
+
 
